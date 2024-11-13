@@ -1,4 +1,4 @@
-package me.rezapour.habittracker.ui.theme
+package me.rezapour.designsystem.theme
 
 import android.app.Activity
 import android.os.Build
