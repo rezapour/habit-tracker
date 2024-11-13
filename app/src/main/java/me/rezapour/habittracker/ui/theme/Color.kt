@@ -1,4 +1,4 @@
-package me.rezapour.designsystem.theme
+package me.rezapour.habittracker.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
